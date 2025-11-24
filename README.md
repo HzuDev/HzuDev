@@ -1,19 +1,26 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnhhcGZ6bHkyMG92Z3dldmh2c3VhOHh3ZWR2cWhid25yNGFvMTFreCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yYSSBtDgbbRzq/giphy.gif"  />
 </div>
 
 ###
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+    <a href="https://www.linkedin.com/in/ricardo-cuenca-98b62116a/" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" 
+             height="25" 
+             alt="linkedin logo"  
+        />
+    </a>
+    
+  <a href="https://x.com/Hzudev" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=Twitter&logo=X&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" 
+             height="25" 
+             alt="twitter logo"  
+        />
+    </a>
 </div>
+
+###
+
 
 ###
 
@@ -25,13 +32,18 @@
 
 ###
 
-<p align="left">
-Soy un **Desarrollador Web Freelance** apasionado por construir soluciones de alto rendimiento con arquitecturas modernas.
-<br><br>
-- 🔭 **Actualmente trabajo como:** Desarrollador Freelance especializado en migración a **Headless CMS** y sitios **Jamstack** de alto rendimiento (Next.js, Astro).
-- 📚 **Estoy aprendiendo activamente:** Profundizando en la arquitectura de **Observabilidad** (ELK Stack, OpenTelemetry) para sistemas de microservicios y mi transición a **React/Next.js**.
-- ⚡ **En mi tiempo libre disfruto:** Explorando las últimas tendencias del ecosistema web (como TanStack Start) y aplicando principios de **Diseño UI/UX** a mis proyectos.
-</p>
+<div align="left">
+    <p>
+    Soy un <b>Desarrollador Web Freelance</b> apasionado por construir soluciones de alto rendimiento con arquitecturas modernas.
+    </p>
+
+   <ul>
+        <li>🔭 <b>Actualmente trabajo como:</b> Desarrollador Freelance especializado en migración a Headless CMS y sitios Jamstack de alto rendimiento (Next.js, Astro).</li>
+        <li>📚 <b>Estoy aprendiendo activamente:</b> Profundizando en la arquitectura de Observabilidad (ELK Stack, OpenTelemetry) para sistemas de microservicios y mi transición a React/Next.js.</li>
+        <li><b>💼 Busco Colaboración:</b> Siempre estoy abierto a nuevos proyectos, especialmente aquellos que buscan la optimización del rendimiento y tienen alto impacto </li>
+        <li>⚡ <b>En mi tiempo libre disfruto:</b> Explorando las últimas tendencias del ecosistema web (como TanStack Start) y aplicando principios de Diseño UI/UX a mis proyectos.</li>
+    </ul>
+</div>
 
 ###
 
@@ -57,13 +69,13 @@ Soy un **Desarrollador Web Freelance** apasionado por construir soluciones de al
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind logo" />          
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg"  height="40" alt="framer-motion logo" />
-  <img width="12" />
-       
+  <img width="12" />     
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="framer-motion logo" />
+  <img width="12" />       
 </div>
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
 
 ###
 

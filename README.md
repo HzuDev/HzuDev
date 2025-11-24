@@ -49,7 +49,7 @@
 
 <h3 align="left">🛠 Lenguajes y herramientas</h3>
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="40" alt="next js logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -76,9 +76,10 @@
 
 ###
 
-
-###
-
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Hzu_&theme=tokyonight&layout=compact&hide_title=true&langs_count=6" 
+         alt="WakaTime Stats - Lenguajes y Editores" />
+</div>
 <div align="center">
   <a href="https://wakatime.com/@306981ba-54fc-4dce-8d0b-01b94ca313c1" link="_target" ><img src="https://wakatime.com/badge/user/306981ba-54fc-4dce-8d0b-01b94ca313c1.svg" alt="Total time coded since Sep 16 2022" /></a>
 </div>
